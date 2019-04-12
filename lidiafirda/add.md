@@ -1,2 +1,0 @@
-# lidiafirda
-Repo belajar github
